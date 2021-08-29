@@ -3,10 +3,10 @@ def add(x,y):
     pass
 # Subtract implementation
 def subtract(x,y):
-    pass
+    return x-y
 # Multiplication implementation
 def multiply(x,y):
-    pass
+    return x*y
 # Division implementation
 def divide(x,y):
     return x/y
